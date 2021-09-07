@@ -21,7 +21,9 @@ Modify the defined variables at the top of the script:
  
  3 : PROFILE_PATH - Point to Firefox profile <C:/Users/User/AppData/Roaming/Mozilla/Firefox/Profiles/xxxx.default-release>.
 
-![](...)
+![](https://github.com/dragoneyeintel/Linux-Academy-Course-Rip/blob/main/Link%20Example.png)
+
+Navigate to the course in a broser and copy the course name, in this case <introduction-to-python-scripting>. Execute the python script and insert this course name when prompted.
 
 `sudo python3 CourseRip_v2-3.py`
 
