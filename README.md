@@ -10,7 +10,7 @@ Python3 and the following python libraries must be installed before execution: [
 
 
 ## Operation
-This script will copy an instance of the user's current Firefox browser profile upon execution to mitigate sign-in issues. Make sure you have the latest version of Firefox installed and you are signed into the website. Download the geckodriver executable from [Mozilla github](https://github.com/mozilla/geckodriver/releases).
+This script allows a user to login through the command line (preferred and much faster) or copy an instance of the user's current Firefox browser profile upon execution to mitigate sign-in issues. Make sure you have the latest version of Firefox installed and you are signed into the website. Download the geckodriver executable from [Mozilla github](https://github.com/mozilla/geckodriver/releases).
 
 
 Modify the defined variables at the top of the script:
