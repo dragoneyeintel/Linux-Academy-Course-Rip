@@ -27,7 +27,7 @@ Navigate to the course in a broser and copy the course name, in this case <intro
  
  ![.](https://github.com/dragoneyeintel/Linux-Academy-Course-Rip/blob/main/Example%20Operation.gif)
 
-`sudo python3 CourseRip_v2-3.py`
+`sudo python3 CourseRip_v2-5.py`
 
 
 ## Archive
